@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "D:/Program Files/Autodesk/Maya2020/devkit/other/pymel/extras/completion/py"
+    ],
+    "python.pythonPath": "D:\\Program Files\\Python27\\python.exe"
+}
